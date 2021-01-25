@@ -60,6 +60,8 @@ namespace MapNotify
 # REFLECT
 ElementalReflect;Elemental Reflect;FF0000FF
 PhysicalReflect;Physical Reflect;FF0000FF
+# LEECH
+MapMonsterLifeLeechImmunity;Cannot Leech Life/Mana;FF0000FF
 # REGEN
 NoLifeESRegen;No Regen;FF007FFF
 MapPlayerReducedRegen;60%% Less Regen;FF007FFF
